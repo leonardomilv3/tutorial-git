@@ -1,5 +1,7 @@
 # Tutorial de Git - Comandos Iniciais
 
+Tutorial completo como instalar e usar o git no [link](https://www.atlassian.com/br/git/tutorials/install-git).
+
 ## Instalando git
 
 ```Bash
